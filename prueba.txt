@@ -3,8 +3,6 @@ Esto es una prueba de administrador de archivos de texto.
 Nada más.
 Tengo hambre
 
-Esto es una prueba de administrador de archivos de texto.
-Nada más.
 
 Ahora en develop
 vamos a introducir un cambio
