@@ -2,10 +2,10 @@
 Esto es una prueba de administrador de archivos de texto.
 Nada más.
 Tengo hambre
-
+DIFERENCIA1 
 
 Ahora en develop
-vamos a introducir un cambio
+vamos a inD2ucir un cambio
 
 
 cambios de otro editor
